@@ -1,0 +1,10 @@
+{
+  "ID": "all-jobs",
+  "Address": "http://127.0.0.1:8080",
+  "Topics": {
+    "Job": [
+      "*"
+    ]
+  },
+  "Type": "webhook"
+}
